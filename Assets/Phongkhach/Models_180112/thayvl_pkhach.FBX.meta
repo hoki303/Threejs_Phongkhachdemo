@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 2d7de8bc759eb6542ba2fe659d7dd348
+timeCreated: 1515729711
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: thayvl_Armchair
+    100002: thayvl_ban bep
+    100004: thayvl_chair274
+    100006: thayvl_chair277
+    100008: thayvl_chair278
+    100010: thayvl_chair279
+    100012: thayvl_chair280
+    100014: thayvl_chair281
+    100016: thayvl_den
+    100018: thayvl_den_001
+    100020: thayvl_Floor_Object004
+    100022: thayvl_ghe tron
+    100024: thayvl_goi001
+    100026: thayvl_ke bep
+    100028: thayvl_ke tivi
+    100030: thayvl_Object35622393
+    100032: //RootNode
+    100034: thayvl_sofa001
+    100036: thayvl_sofa002
+    100038: thayvl_tu
+    100040: thayvl_tu bep
+    100042: thayvl_tu bep_001
+    400000: thayvl_Armchair
+    400002: thayvl_ban bep
+    400004: thayvl_chair274
+    400006: thayvl_chair277
+    400008: thayvl_chair278
+    400010: thayvl_chair279
+    400012: thayvl_chair280
+    400014: thayvl_chair281
+    400016: thayvl_den
+    400018: thayvl_den_001
+    400020: thayvl_Floor_Object004
+    400022: thayvl_ghe tron
+    400024: thayvl_goi001
+    400026: thayvl_ke bep
+    400028: thayvl_ke tivi
+    400030: thayvl_Object35622393
+    400032: //RootNode
+    400034: thayvl_sofa001
+    400036: thayvl_sofa002
+    400038: thayvl_tu
+    400040: thayvl_tu bep
+    400042: thayvl_tu bep_001
+    2300000: thayvl_Armchair
+    2300002: thayvl_ban bep
+    2300004: thayvl_chair274
+    2300006: thayvl_chair277
+    2300008: thayvl_chair278
+    2300010: thayvl_chair279
+    2300012: thayvl_chair280
+    2300014: thayvl_chair281
+    2300016: thayvl_den
+    2300018: thayvl_den_001
+    2300020: thayvl_Floor_Object004
+    2300022: thayvl_ghe tron
+    2300024: thayvl_goi001
+    2300026: thayvl_ke bep
+    2300028: thayvl_ke tivi
+    2300030: thayvl_Object35622393
+    2300032: thayvl_sofa001
+    2300034: thayvl_sofa002
+    2300036: thayvl_tu
+    2300038: thayvl_tu bep
+    2300040: thayvl_tu bep_001
+    3300000: thayvl_Armchair
+    3300002: thayvl_ban bep
+    3300004: thayvl_chair274
+    3300006: thayvl_chair277
+    3300008: thayvl_chair278
+    3300010: thayvl_chair279
+    3300012: thayvl_chair280
+    3300014: thayvl_chair281
+    3300016: thayvl_den
+    3300018: thayvl_den_001
+    3300020: thayvl_Floor_Object004
+    3300022: thayvl_ghe tron
+    3300024: thayvl_goi001
+    3300026: thayvl_ke bep
+    3300028: thayvl_ke tivi
+    3300030: thayvl_Object35622393
+    3300032: thayvl_sofa001
+    3300034: thayvl_sofa002
+    3300036: thayvl_tu
+    3300038: thayvl_tu bep
+    3300040: thayvl_tu bep_001
+    4300000: thayvl_tu bep
+    4300002: thayvl_ke bep
+    4300004: thayvl_den
+    4300006: thayvl_ban bep
+    4300008: thayvl_chair274
+    4300010: thayvl_Floor_Object004
+    4300012: thayvl_ghe tron
+    4300014: thayvl_sofa001
+    4300016: thayvl_goi001
+    4300018: thayvl_tu
+    4300020: thayvl_Object35622393
+    4300022: thayvl_tu bep_001
+    4300024: thayvl_ke tivi
+    4300026: thayvl_sofa002
+    4300028: thayvl_den_001
+    4300030: thayvl_Armchair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: e0afbc2eb31a09b4ab0835ef0bb1214b
+timeCreated: 1515983254
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bau cua
+    100004: dodecor01
+    100006: dodecor02
+    100008: dodecor03
+    100010: dodecor04
+    100012: dodecor05
+    100014: dodecor06
+    100016: dodecor07
+    100018: dodecor08
+    100020: dodecor09
+    100022: dodecor10
+    100024: dodecor11
+    100026: ketivi1
+    100028: ketivi2
+    100030: ketivi3
+    100032: Line2000030004
+    100034: phaochantuong
+    100036: tivi
+    400000: //RootNode
+    400002: bau cua
+    400004: dodecor01
+    400006: dodecor02
+    400008: dodecor03
+    400010: dodecor04
+    400012: dodecor05
+    400014: dodecor06
+    400016: dodecor07
+    400018: dodecor08
+    400020: dodecor09
+    400022: dodecor10
+    400024: dodecor11
+    400026: ketivi1
+    400028: ketivi2
+    400030: ketivi3
+    400032: Line2000030004
+    400034: phaochantuong
+    400036: tivi
+    2300000: bau cua
+    2300002: dodecor01
+    2300004: dodecor02
+    2300006: dodecor03
+    2300008: dodecor04
+    2300010: dodecor05
+    2300012: dodecor06
+    2300014: dodecor07
+    2300016: dodecor08
+    2300018: dodecor09
+    2300020: dodecor10
+    2300022: dodecor11
+    2300024: ketivi1
+    2300026: ketivi2
+    2300028: ketivi3
+    2300030: Line2000030004
+    2300032: phaochantuong
+    2300034: tivi
+    3300000: bau cua
+    3300002: dodecor01
+    3300004: dodecor02
+    3300006: dodecor03
+    3300008: dodecor04
+    3300010: dodecor05
+    3300012: dodecor06
+    3300014: dodecor07
+    3300016: dodecor08
+    3300018: dodecor09
+    3300020: dodecor10
+    3300022: dodecor11
+    3300024: ketivi1
+    3300026: ketivi2
+    3300028: ketivi3
+    3300030: Line2000030004
+    3300032: phaochantuong
+    3300034: tivi
+    4300000: dodecor10
+    4300002: dodecor11
+    4300004: dodecor04
+    4300006: dodecor05
+    4300008: Line2000030004
+    4300010: dodecor06
+    4300012: tivi
+    4300014: dodecor07
+    4300016: dodecor08
+    4300018: dodecor09
+    4300020: ketivi3
+    4300022: ketivi1
+    4300024: bau cua
+    4300026: phaochantuong
+    4300028: dodecor02
+    4300030: dodecor03
+    4300032: dodecor01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
